@@ -46,11 +46,17 @@
 	>   ![image.png](https://s2.loli.net/2022/07/01/1aQnXrZLeKBRzS3.png)
 5. 进阶(需要安装python3环境)
 	> 将光敏传感器DO口连接开发板的IO05
+	
 	> VCC连接esp32c3开发板3.3V接口
+	
 	> GND连接esp32c3开发板GND
+	
 	> 安装PYTHON3环境
+	
 	> 根据此教程解锁esp32c3 IO11 https://b23.tv/sDdGMto
-	屏幕即可在晚上自动关闭 
+	
+	屏幕即可在晚上自动关闭
+	 
 6. enjoy it！十分欢迎大家提pr增加中文显示、ui美化等功能
 
    
