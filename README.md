@@ -12,7 +12,7 @@
 ## 安装步骤
 1. 下载arduino IDE
 	  > * 打开微软商店(microsoft store) ,下载arduino IDE![image.png](https://s2.loli.net/2022/06/30/M9FryCj8WEoSZvH.png)
-	  > *  打开arduino，点击 文件->首选项->附加开发板管理器地址 输入 `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-	pages/package_esp32_dev_index.json` 点击好![image.png](https://s2.loli.net/2022/06/30/KvNjeGPFMl1x2fZ.png) 
+	  > *  打开arduino，点击 文件->首选项->附加开发板管理器地址 输入 `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json` 点击好![image.png](https://s2.loli.net/2022/06/30/KvNjeGPFMl1x2fZ.png) 
 	  > 点击 工具 开发板选择ESP32C3 Dev Module , Flash Mode选DIO，端口可以在控制面板->设备和打印机查看（随便选一个能编译成功的也可），现在arduino IDE就配置好了。![image.png](https://s2.loli.net/2022/07/01/K2h6YsqCQS5UwnJ.png)
 
 2. 将esp32c3通过数据线连接电脑，屏幕通过杜邦线连接esp32c3，光敏传感器连接esp32c3
