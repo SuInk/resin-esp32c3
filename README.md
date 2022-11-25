@@ -50,5 +50,5 @@ cookie信息
 * 安装PYTHON3环境  
 * 根据此[教程](https://b23.tv/sDdGMto)解锁esp32c3 IO11   
 
-屏幕即可在晚上自动关闭
+屏幕即可在晚上自动关闭  
 6. enjoy it！十分欢迎大家提pr增加中文显示、ui美化等功能
