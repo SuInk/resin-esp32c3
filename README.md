@@ -20,21 +20,20 @@
 
 2. 将esp32c3通过数据线连接电脑，屏幕通过杜邦线连接esp32c3，光敏传感器连接esp32c3
 	按图连接
-
 ![IMG_1337.jpeg](https://s2.loli.net/2022/07/01/AXvs9GzB5Rgi37Z.jpg)
 ![IMG_1335.jpeg](https://s2.loli.net/2022/07/01/arqiT5F2EcJIX1o.jpg)
 
 
 3. 打开https://github.com/SuInk/resin-esp32c3 复制代码
-
 ![image.png](https://s2.loli.net/2022/07/01/AZdBSav31Jtz7WG.png)
 
 
 4. 打开arduino新建工程
 
 * 把复制的代码粘贴到arduino中，填入
-2.4G WiFi的账号、密码
+
 ``` bash
+2.4G WiFi的账号、密码
 原神uid
 服务器
 cookie信息
@@ -49,6 +48,5 @@ cookie信息
 * GND连接esp32c3开发板GND  
 * 安装PYTHON3环境  
 * 根据此[教程](https://b23.tv/sDdGMto)解锁esp32c3 IO11   
-
 屏幕即可在晚上自动关闭  
 6. enjoy it！十分欢迎大家提pr增加中文显示、ui美化等功能
